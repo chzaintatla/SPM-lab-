@@ -1,0 +1,5 @@
+[
+  {"id": 1, "title": "Setup project", "status": "done", "description": "Initial project setup"},
+  {"id": 2, "title": "Implement feature A", "status": "in-progress", "description": "Work on feature A"},
+  {"id": 3, "title": "Write docs", "status": "todo", "description": "Add README and docs"}
+]
